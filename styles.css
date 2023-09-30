@@ -1,0 +1,34 @@
+body {
+    text-align: center;
+    list-style-type: none;
+    padding: 0;
+    background-color: rgb(29, 41, 53);
+    color: #dddddd;
+}
+
+h1 {
+    margin-bottom: -10px;
+}
+
+ul, ol {
+    list-style-type: none;
+    padding: 0;
+}
+
+li {
+    margin-bottom: 10px;
+}
+
+a:visited, a:link {
+    color: #dddddd;
+    text-decoration: none;
+}
+
+h4 {
+    margin-top: 50px;
+}
+
+#home {
+    margin-left: 50px;
+    float: left;
+}
